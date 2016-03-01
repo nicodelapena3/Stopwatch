@@ -5,7 +5,7 @@
 <br> 
 <b>Example screenshots of our completed messenger app. </b><br><br>
 <b>Stopwatch App Start Screen</b>&nbsp;&nbsp;:octocat:<br><br>
-! [Alt text] (https://github.com/nicodelapena3/Stopwatch/blob/master/Capture.png
+! [Alt text] (https://github.com/nicodelapena3/Stopwatch/blob/master/Capture.PNG
 "Start Screen")
 <br><br>
 <b>
